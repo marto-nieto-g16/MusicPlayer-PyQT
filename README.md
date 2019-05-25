@@ -4,21 +4,22 @@ MusicPlayer-PyQT es un reproductor de audio libre desarrollado principalmente pa
 
 
 # Requisitos
-    - Python 2.7
+- Python 2.7
 
-#Instalar en Ubuntu y Derivados:
+# Instalar en Ubuntu y Derivados:
     PyQt4:  sudo apt-get install python-qt4
     Phonon: sudo apt-get install python-qt4-phonon
 
 - git clone https://github.com/marto-nieto-g16/MusicPlayer-PyQT.git
 
-#Ejecucion
+# Ejecucion
     python app.py
-
-Escrito y Desarrollado en: Python
-Framework: Qt
-Licencia: GNU General Public License 3
-#:Author: Marto Nieto Guerrero
+    
+# Informacion
+    Escrito y Desarrollado en: Python
+    Framework: Qt
+    Licencia: GNU General Public License 3
+    #:Author: Marto Nieto Guerrero
 
 
 
