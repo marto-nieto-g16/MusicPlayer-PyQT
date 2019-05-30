@@ -13,7 +13,8 @@ Instalar en Ubuntu y Derivados:
     PyQt4:  sudo apt-get install python-qt4
     Phonon: sudo apt-get install python-qt4-phonon
 
-git clone https://github.com/marto-nieto-g16/MusicPlayer-PyQT.git
+# Descargar el código fuente de Github
+	git clone https://github.com/marto-nieto-g16/MusicPlayer-PyQT.git
 
 #Ejecucion
     python app.py
@@ -21,6 +22,7 @@ git clone https://github.com/marto-nieto-g16/MusicPlayer-PyQT.git
 Escrito y Desarrollado en: Python
 Framework: Qt
 Licencia: GNU General Public License 3
+
 #:Author: Marto Nieto Guerrero
 
 
